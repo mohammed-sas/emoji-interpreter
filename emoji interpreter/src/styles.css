@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+:root {
+  --primary-color: #5b21b6;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  background-color: var(--primary-color);
+  margin-top: 0px;
+  padding: 10px 0px;
+  height: 50px;
+  color: white;
+}
+
+input {
+  padding: 1rem;
+  border: 2px solid var(--primary-color);
+  border-radius: 1rem;
+}
+
+.list-emoji {
+  border: 3px solid var(--primary-color);
+  border-radius: 1rem;
+  width: 400px;
+  margin: auto;
+}
