@@ -9,7 +9,13 @@ const emojiDictionary = {
   "🐧": "Penguin",
   "🐞": "Lady Beetle",
   "☀️": "Sun",
-  "🌵": "Cactus"
+  "🌵": "Cactus",
+  "💨": "Dashing Away",
+  "🐪": "Camel",
+  "🐘": "Elephant",
+  "⚡": "High Voltage",
+  "☃️": "Snowman",
+  "🔥": "Fire"
 };
 
 var emojiArray = Object.keys(emojiDictionary);
